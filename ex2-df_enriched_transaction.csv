@@ -1,0 +1,16 @@
+transaction_id,customer_id,amount,timestamp,currency,ip_address,transaction_hour,customer_name,customer_email,registration_date,customer_tier,last_login_date,is_fraudulent_rule1
+TX001,C101,150.75,2024-07-16 10:00:00,USD,192.168.1.10,10,Alice Smith,alice@example.com,2023-01-15,Gold,2024-07-15,False
+TX002,C102,25.0,2024-07-16 10:01:30,USD,192.168.1.11,10,Bob Johnson,bob@example.com,2024-07-09,Silver,2024-07-16,False
+TX003,C101,50.25,2024-07-16 10:02:00,USD,192.168.1.10,10,Alice Smith,alice@example.com,2023-01-15,Gold,2024-07-15,False
+TX004,C103,1200.0,2024-07-16 10:03:15,EUR,192.168.1.12,10,Charlie Brown,charlie@example.com,2023-11-20,Bronze,2024-07-14,False
+TX005,C102,75.5,2024-07-16 10:04:00,USD,192.168.1.11,10,Bob Johnson,bob@example.com,2024-07-09,Silver,2024-07-16,False
+TX006,C104,300.0,2024-07-16 10:05:00,USD,192.168.1.13,10,Diana Prince,diana@example.com,2024-07-10,Silver,2024-07-16,False
+TX007,C101,10.0,2024-07-16 10:06:00,USD,192.168.1.14,10,Alice Smith,alice@example.com,2023-01-15,Gold,2024-07-15,False
+TX008,C105,0.0,2024-07-16 10:07:00,USD,192.168.1.15,10,Eve Adams,eve@example.com,2023-05-01,Gold,2024-07-15,False
+TX009,C102,200.0,2024-07-16 10:08:00,USD,192.168.1.11,10,Bob Johnson,bob@example.com,2024-07-09,Silver,2024-07-16,False
+TX010,C106,45.0,2024-07-16 10:09:00,USD,192.168.1.16,10,Frank White,frank@example.com,2024-07-11,Bronze,2024-07-15,False
+TX011,C101,500.0,2024-07-16 10:10:00,USD,192.168.1.10,10,Alice Smith,alice@example.com,2023-01-15,Gold,2024-07-15,False
+TX012,C107,20.0,2024-07-16 10:11:00,USD,192.168.1.17,10,Grace Hopper,grace@example.com,2023-03-22,Silver,2024-07-14,False
+TX013,C108,10.0,2024-07-16 10:12:00,USD,192.168.1.18,10,Heidi Klum,heidi@example.com,2024-07-16,Bronze,2024-07-16,False
+TX014,C109,15.0,2024-07-16 10:13:00,USD,192.168.1.19,10,Ivan Drago,ivan@example.com,2024-07-16,Silver,2024-07-16,False
+TX015,C999,100.0,2024-07-16 10:14:00,USD,192.168.1.20,10,,,,,,False

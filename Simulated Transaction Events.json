@@ -1,0 +1,130 @@
+[
+  {
+    "transaction_id": "TX001",
+    "customer_id": "C101",
+    "amount": 150.75,
+    "timestamp": "2024-07-16 10:00:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.10"
+  },
+  {
+    "transaction_id": "TX002",
+    "customer_id": "C102",
+    "amount": 25,
+    "timestamp": "2024-07-16 10:01:30",
+    "currency": "USD",
+    "ip_address": "192.168.1.11"
+  },
+  {
+    "transaction_id": "TX003",
+    "customer_id": "C101",
+    "amount": "50.25",
+    "timestamp": "2024-07-16 10:02:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.10"
+  },
+  {
+    "transaction_id": "TX004",
+    "customer_id": "C103",
+    "amount": 1200,
+    "timestamp": "2024-07-16 10:03:15",
+    "currency": "EUR",
+    "ip_address": "192.168.1.12"
+  },
+  {
+    "transaction_id": "TX005",
+    "customer_id": "C102",
+    "amount": "75.50",
+    "timestamp": "2024-07-16 10:04:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.11"
+  },
+  {
+    "transaction_id": "TX006",
+    "customer_id": "C104",
+    "amount": 300,
+    "timestamp": "2024-07-16 10:05:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.13"
+  },
+  {
+    "transaction_id": "TX007",
+    "customer_id": "C101",
+    "amount": 10,
+    "timestamp": "2024-07-16 10:06:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.14"
+  },
+  {
+    "transaction_id": "TX008",
+    "customer_id": "C105",
+    "amount": "NULL",
+    "timestamp": "2024-07-16 10:07:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.15"
+  },
+  {
+    "transaction_id": "TX009",
+    "customer_id": "C102",
+    "amount": 200,
+    "timestamp": "2024-07-16 10:08:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.11"
+  },
+  {
+    "transaction_id": "TX010",
+    "customer_id": "C106",
+    "amount": 45,
+    "timestamp": "2024-07-16 10:09:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.16"
+  },
+  {
+    "transaction_id": "TX011",
+    "customer_id": "C101",
+    "amount": 500,
+    "timestamp": "2024-07-16 10:10:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.10"
+  },
+  {
+    "transaction_id": "TX012",
+    "customer_id": "C107",
+    "amount": 20,
+    "timestamp": "2024-07-16 10:11:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.17"
+  },
+  {
+    "transaction_id": "TX013",
+    "customer_id": "C108",
+    "amount": 10,
+    "timestamp": "2024-07-16 10:12:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.18"
+  },
+  {
+    "transaction_id": "TX014",
+    "customer_id": "C109",
+    "amount": 15,
+    "timestamp": "2024-07-16 10:13:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.19"
+  },
+  {
+    "transaction_id": "TX015",
+    "customer_id": "C999",
+    "amount": 100,
+    "timestamp": "2024-07-16 10:14:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.20"
+  },
+  {
+    "transaction_id": "TX001",
+    "customer_id": "C101",
+    "amount": 150.75,
+    "timestamp": "2024-07-16 10:00:00",
+    "currency": "USD",
+    "ip_address": "192.168.1.10"
+  }
+]
